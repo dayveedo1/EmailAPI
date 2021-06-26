@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmailAPI</name>
+    </assembly>
+    <members>
+        <member name="M:EmailAPI.Controllers.MailController.Get">
+            <summary>
+            Send Mail
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
